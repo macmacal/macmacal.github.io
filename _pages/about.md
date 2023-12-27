@@ -8,4 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-Site under construction.
+- PhD Student at AGH University of Krakow.
+- Member of [Machine Vision Group](https://home.agh.edu.pl/~mdig/).
